@@ -1,4 +1,4 @@
-# World Life Expectancy MySQL Project 
+# World Life Expectancy  
 
 ## Data Cleaning & Exploratory Data Analysis
 
