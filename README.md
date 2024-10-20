@@ -12,7 +12,9 @@ In this project, I worked on cleaning and analyzing global life expectancy data 
 
 ### Data Source
 
-world_life_expectancy.csv
+[world_life_expectancy.csv](https://github.com/janelleridge/SQL-Projects/blob/main/WorldLifeExpectancy.csv)
+
+Cleaned Data: [WorldLifeExpectancy_Clean.csv](https://github.com/janelleridge/SQL-Projects/blob/main/WorldLifeExpectancy_Clean.csv) 
 
 ### Tool Used
 
